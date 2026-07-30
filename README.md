@@ -1,16 +1,16 @@
-## Hi there 👋
+## What's here
 
-<!--
-**cuanmacnab-AI/cuanmacnab-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in business development and account management, and I build tools —
+mostly for myself — to automate the parts of that work that shouldn't be manual.
 
-Here are some ideas to get you started:
+**[Company-lead-sourcing-AI](https://github.com/cuanmacnab-AI/Company-lead-sourcing-AI)**
+Automates prospect identification and scoring against an ideal-customer profile,
+replacing a time consuming and manual research process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Fitness-accountability-webapp-design](https://github.com/cuanmacnab-AI/Fitness-accountability-webapp-design)**
+Personal project - Interactive prototype for a fitness accountability league — engagement logic,
+visual design and full user flow.
+
+I'm not a software engineer by background. I recognise the importance of using AI to help 
+solve problems and optimise productivity whether that be in my personal and/or work life. I aim
+to upskill myself continuously and become AI native.
