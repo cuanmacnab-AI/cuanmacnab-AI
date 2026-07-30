@@ -4,8 +4,7 @@ I work in business development and account management, and I build tools —
 mostly for myself — to automate the parts of that work that shouldn't be manual.
 
 **[Company-lead-sourcing-AI](https://github.com/cuanmacnab-AI/Company-lead-sourcing-AI)**
-Automates prospect identification and scoring against an ideal-customer profile,
-replacing a time consuming and manual research process.
+Automates prospect research and ICP scoring for outbound lead generation.
 
 **[Fitness-accountability-webapp-design](https://github.com/cuanmacnab-AI/Fitness-accountability-webapp-design)**
 Personal project - Interactive prototype for a fitness accountability league — engagement logic,
